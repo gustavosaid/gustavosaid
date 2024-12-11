@@ -1,8 +1,8 @@
 
 ## Olá, me chamo Gustavo Ribeiro
 
-- 🔭 Atualmente estou trabalhando na Camara Municipal de Patos de Minas.
-- 🌱 Atualmente estou aprendendo JavaScript.
+- 🔭 Atualmente estou trabalhando na - Camara Municipal de Patos de Minas.
+- 🌱 Atualmente estou aprendendo - JavaScript.
 - 🤔 Estou procurando ajuda com Alura
 - 📫 Como entrar em contato comigo: email: guguribeiro25@gmail.com
 
