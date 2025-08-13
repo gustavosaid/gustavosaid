@@ -2,7 +2,7 @@
 ## Olá, me chamo Gustavo Ribeiro
 
 - 🔭 Atualmente estou trabalhando na - Camara Municipal de Patos de Minas.
-- 🌱 Atualmente estou aprendendo - JavaScript, C# .NEt
+- 🌱 Atualmente estou aprendendo - Python e Django
 - 🤔 Estou procurando ajuda com Alura
 - 📫 Como entrar em contato comigo: email: guguribeiro25@gmail.com
 
@@ -12,6 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" heigth="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" heigth="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" heigth="40" />****
 
 ## Contatos:
 <div>
